@@ -1,2 +1,3 @@
 # AdvertisingPredictiveModeling
-Using ADS-16 Computational Advertising public dataset, predict the likelihood that different personalities will engage with certain advertisements.
+
+This project uses the ADS-16 Computational Advertising Public Dataset which holds 300 advertisements (Rich Media Ads, Image Ads, Text Ads, etc.) rated by 120 individuals along with their personality factors. The goal of this project is to predict the likelihood that different personality types will engage with certain ads by analyzing the relationship between the ad features and the individuals' characteristics. This predictive modeling aims to enhance targeted advertising by tailoring ads to the preferences of distinct personal categories, to improve advertisement relevance and engagement. We will apply machine learning techniques to combine ad content and personality data to identify patterns that can lead to more effective, personalized advertising strategies.
